@@ -232,7 +232,7 @@ img:hover{
     
     footer {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
         background-color: #131313;
         color: #fff;
         justify-content: center;
@@ -241,7 +241,7 @@ img:hover{
         min-height: 20vh;
         width: 100%;
         text-align: center;
-        padding: 5rem 2rem;
+        padding: 5rem 0.01rem;
     }
     
     
