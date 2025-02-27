@@ -189,7 +189,7 @@ img:hover{
         text-align: center;
         min-height: 40vh;
         width: 100%;
-        padding: 5rem 2rem;
+        padding: 5rem 0.01rem;
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero.jpg);
         background-attachment: fixed;
         background-position: center;
@@ -237,7 +237,7 @@ img:hover{
         color: #fff;
         justify-content: center;
         align-items: center;
-        gap: 1.6em;
+        gap: 1em;
         min-height: 20vh;
         width: 100%;
         text-align: center;
@@ -247,7 +247,7 @@ img:hover{
     
     .links {
         display: flex;
-        width: 180px;
+        width: 160px;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -291,7 +291,7 @@ img:hover{
         text-align: center;
         min-height: 30vh;
         width: 100%;
-        padding: 5rem 2rem;
+        padding: 5rem 0.01rem;
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero.jpg);
         background-attachment: fixed;
         background-position: center;
